@@ -24,23 +24,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- How to use github, how to link my reository, how to commit a change, and how to push my changes!
 
 **I struggled with:** (repeat as needed)
-- .
+- The initial repository part and getting the file on my PC, because it was my first time but I figured it out!
 
-**I need the instructor to help me with:** (repeat as needed)
-- .
+**I need the instructor to help me with:** 
+- n/a
 
 **💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
-
+20!
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- n/a
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- n/a
 
 ---
 ## Copyrights and License
